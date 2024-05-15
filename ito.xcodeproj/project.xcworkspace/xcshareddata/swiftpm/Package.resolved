@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lbtatools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bhlvoong/LBTATools.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "adfebcec7e09f07b184f1eca321dd5ec61c47d5b"
+      }
+    }
+  ],
+  "version" : 2
+}
