@@ -1,7 +1,9 @@
 # ito
 ito (iPhone - tour) - is an iOS app that allows iOS developers to story UIKit's default views
 
-
+<img src="ito/RMImages/launch.png" width="200">   <img src="ito/RMImages/tip.png" width="200">   <img src="ito/RMImages/tabs.png" width="200">
+<img src="ito/RMImages/simpleTableView.png" width="200">   <img src="ito/RMImages/exampleTableView.png" width="200">
+<img src="ito/RMImages/simpleCollectionView.png" width="200">   <img src="ito/RMImages/exampleCollectionView.png" width="200"> <img src="ito/RMImages/compositionalCollectionView.png" width="200"> 
 
 ### This project is not complete! Feel free to clone and use this repo however you want.
 
